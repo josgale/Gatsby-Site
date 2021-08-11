@@ -1,3 +1,5 @@
+name: Build-Test-Deploy
+
 on:
   push:
     - master
